@@ -44,6 +44,7 @@
     align-items: center;
     height: 100vh;
     background-color: #23252c;
+    min-height: 900px;
 }
 
 .info-text {
